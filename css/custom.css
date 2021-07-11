@@ -1,2 +1,16 @@
 
 /** ADD YOUR AWESOME CODES HERE **/
+.skill-name {
+    margin-top: 15px;
+}
+
+.skill-name p {
+    display: inline-block;
+    margin-bottom: 5px;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.skill-name p:last-child {
+    float: right;
+}
